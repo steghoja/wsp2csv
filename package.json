@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@json2csv/formatters": "^7.0.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "yargs": "^17.7.2"
+  },
+  "name": "wsp2csv",
+  "version": "1.0.0",
+  "description": "Converts JSON files output by WhisperX into CSV files",
+  "main": "wsp2csv",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steghoja/wsp2csv.git"
+  },
+  "author": "Jan-Philipp Steghöfer",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/steghoja/wsp2csv/issues"
+  },
+  "homepage": "https://github.com/steghoja/wsp2csv#readme"
+}
